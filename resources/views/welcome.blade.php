@@ -34,8 +34,6 @@
     </div>
 </nav>
 <section class="hero-wrap">
-    <div class="overlay"></div>
-    <div class="container-xl">
         <div class="row slider-text align-items-center align-items-stretch justify-content-between">
             <div class="col-lg-6 text d-flex align-items-start align-items-sm-center" style="background-color: black">
                 <div class="desc mt-4 mt-md-0">
